@@ -11,6 +11,7 @@ node_modules
 dist
 dist-ssr
 *.local
+env
 axiosInstance.js
 src/utils/axiosInstance.js
 src/utils/useGeminiAI.js
