@@ -1,7 +1,7 @@
+import BooksPage from "./components/BooksPage";
 import Navbar from "./components/Navbar";
 import KitabSuciPage from "./components/kitabSuci";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
-import BooksPage from "./components/bookPage";
 
 const App = () => {
   return (

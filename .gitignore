@@ -13,7 +13,8 @@ dist-ssr
 *.local
 axiosInstance.js
 src/utils/axiosInstance.js
-
+src/utils/useGeminiAI.js
+useGeminiAI.js
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
